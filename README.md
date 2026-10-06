@@ -1,1 +1,3 @@
-# data_structures
+# data_structures (Grokking Algorithms)
+
+### Chapter 1 
